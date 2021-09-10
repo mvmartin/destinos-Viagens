@@ -1,12 +1,12 @@
 # Projeto Destinos do Brasil.
 
-<p> Este projeto foi criado com o intiuto de colocar em prática alguns conceitos de HTML, CSS e Javascript visto no curso de Front-End da Alura, visando o desenvolvimento e aperfeiçoamento das tecnologias.</p>
+<p> Este projeto foi criado com o intuito de colocar em prática alguns conceitos de HTML, CSS e Javascript visto no curso de Front-End da Alura, visando o desenvolvimento e aperfeiçoamento das tecnologias.</p>
 <p> Foi desenvolvido uma demonstração de alguns dos principais pontos turisticos do Brasil, através de cada região do país 🗺 </p>
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
-  <li> HTML - Estruturação básica de Página Web.
+  <li> HTML - Estruturação básica da Página Web.
   <li> CSS - Estilização e Design, através do uso de fontes externas [ Google Fonts ] e Layouts de Página [ Grid-layout & Flex ] de forma Responsiva.
   <li> JavaScript - Navegação do DOM com QuerySelector | Criação Funções | Inclusão e alteração dos textos com InnerHTML.
 
