@@ -33,7 +33,11 @@
 
 @media screen and (max-width:680px){
 
-
+            .imagens-passeio{
+            margin: 0;
+        }
+    
+    
         .titulo-regioes{
             
             width: 100%;
